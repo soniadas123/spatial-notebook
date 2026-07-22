@@ -1,0 +1,57 @@
+site_name: Spatial Notebook
+site_url: https://soniadas123.github.io/spatial-notebook/
+docs_dir: content
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: 'Spatial Notebook maintained by <a href="https://github.com/soniadas123">Sonia Das</a>'
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/soniadas123
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/sonia-das-77b05258/
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Notebook:
+    - Open Science in Practice: Open_Science_in_Practice.md
