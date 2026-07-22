@@ -1,0 +1,17 @@
+/* Spatial Notebook custom styling */
+
+/* Header + tabs bar - single yellow color.
+   Overriding --md-primary-fg-color at :root doesn't work because
+   Material sets it directly on <body> via [data-md-color-primary],
+   so <body> never inherits the :root value. Target the elements
+   directly instead. */
+.md-header,
+.md-tabs {
+  background-color: #FFFF00 !important;
+  color: #1a1a1a !important;
+}
+
+/* Hide the default logo icon in the header */
+.md-header__button.md-logo {
+  display: none !important;
+}
