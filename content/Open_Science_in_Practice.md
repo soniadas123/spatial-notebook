@@ -10,7 +10,7 @@ As someone working in geospatial science, I increasingly feel that our role isn'
 
 To me, Building a Resilient Bengaluru (BRB) is a good example of what that can look like.
 
-BRB wasn't just a citizen science campaign. Looking back, it was also an example of open science in practice.
+BRB is more than  a citizen awareness  campaign. Looking back, it is also an example of open science in practice.
 
 Open science is built on a simple idea: research should be transparent, accessible, and reusable. People should be able to understand how data was collected, how it was analysed, and, wherever possible, reproduce the results themselves.
 
@@ -27,7 +27,7 @@ When data, methods, and tools are open, a project doesn't end when the funding e
 
 I think this matters even more in India.
 
-We have no shortage of complex urban challenges — flooding, mobility, air quality, waste management — but too often, valuable datasets and methodologies remain locked away in PDFs, hard drives, or institutional silos. Every new project starts from scratch because the previous one cannot be reproduced.
+We have no shortage of complex urban challenges in India. To name some, fooding, mobility, air quality, waste management. Often, valuable datasets and methodologies remain locked away in PDFs, hard drives, or institutional silos. Every new project starts from scratch because the previous one cannot be reproduced.
 
 Imagine if every publicly funded urban project published not just the final report, but also:
 
@@ -38,6 +38,4 @@ Imagine if every publicly funded urban project published not just the final repo
 
 We would spend less time recreating work and more time building on what already exists.
 
-I recently came across an article on reproducible science, and it made me see BRB through a different lens. It reminded me that the real legacy of a project isn't just the report it produces. It's whether others can learn from it, verify it, reuse it, and take it further.
 
-Open science isn't only about publishing papers. It's about making knowledge accessible, reusable, and collaborative. I hope we see more geospatial and urban projects in India embrace this way of working.
