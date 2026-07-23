@@ -4,6 +4,7 @@ docs_dir: content
 
 theme:
   name: material
+  custom_dir: overrides
   palette:
     - scheme: default
       primary: indigo
@@ -40,6 +41,7 @@ extra:
 
 plugins:
   - search
+  - tags
 
 markdown_extensions:
   - attr_list
@@ -55,3 +57,5 @@ nav:
   - Home: index.md
   - Notebook:
     - Open Science in Practice: Open_Science_in_Practice.md
+    - Can We Make Geospatial Science Easier to Discover?: Can_We_Make_Geospatial_Science_Easier_to_Discover.md
+  - Tags: tags.md

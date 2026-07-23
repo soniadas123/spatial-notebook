@@ -1,0 +1,13 @@
+{#-
+  Override of the built-in partial: renders tags at the bottom of the
+  article (after the content) instead of directly below the title.
+-#}
+{% include "partials/actions.html" %}
+{% if "<h1" not in page.content %}
+  <h1>{{ page.title | d(config.site_name, true)}}</h1>
+{% endif %}
+{{ page.content }}
+{% include "partials/tags.html" %}
+{% include "partials/source-file.html" %}
+{% include "partials/feedback.html" %}
+{% include "partials/comments.html" %}

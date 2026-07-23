@@ -1,3 +1,10 @@
+---
+tags:
+  - Geospatial Science
+  - Stormwater Drains
+  - Open Source Tools
+---
+
 # Open Science in Practice
 
 *Reflections on attending Stormwater Drain Data Jam organised on 23rd May 2026*
