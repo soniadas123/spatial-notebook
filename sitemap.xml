@@ -2,10 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://soniadas123.github.io/spatial-notebook/</loc>
-         <lastmod>2026-07-22</lastmod>
+         <lastmod>2026-07-23</lastmod>
+    </url>
+    <url>
+         <loc>https://soniadas123.github.io/spatial-notebook/Can_We_Make_Geospatial_Science_Easier_to_Discover/</loc>
+         <lastmod>2026-07-23</lastmod>
     </url>
     <url>
          <loc>https://soniadas123.github.io/spatial-notebook/Open_Science_in_Practice/</loc>
-         <lastmod>2026-07-22</lastmod>
+         <lastmod>2026-07-23</lastmod>
+    </url>
+    <url>
+         <loc>https://soniadas123.github.io/spatial-notebook/tags/</loc>
+         <lastmod>2026-07-23</lastmod>
     </url>
 </urlset>
